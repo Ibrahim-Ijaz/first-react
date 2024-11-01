@@ -1,3 +1,4 @@
+
 My Portfolio (A Capstone project)
 
 This is my personal portfolio website, showcasing my front-end development skills, projects, and experience. The website is built using React, Redux, TypeScript, SCSS, and tested with Jest/React Testing Library.
@@ -19,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/irmamaghalashvili/first-react
+git clone (https://github.com/Ibrahim-Ijaz)
 Install dependencies:
 
 bash
@@ -36,7 +37,7 @@ bash
 Copy code
 npm test
 Contact
-- **Email**: imaghalashvili@gmail.com
-- **LinkedIn**:(https://www.linkedin.com/in/irmamaghalashvili/)
-- **GitLab**: (https://gitlab.com/irmamaghalashvili)
-- **GitHub**:(https://github.com/irmamaghalashvili)
+- **Email**: ibrahimijazt804@gmail.com
+- **LinkedIn**:(www.linkedin.com/in/ibrahim-ijaz-b1863426b)
+- **GitLab**: (https://github.com/Ibrahim-Ijaz)
+- **GitHub**: (https://github.com/Ibrahim-Ijaz)
